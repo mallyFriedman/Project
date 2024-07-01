@@ -1,0 +1,77 @@
+header {
+    color: wheat;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	display: inline-block;
+	border: 4px double wheat;
+	border-width: 4px 0;
+	padding: 1.5em 0em !important;
+	position: absolute;
+	top: 4% !important;
+	left: 50% !important;
+	width: 40em !important;
+	margin: 0 0 0 -20em !important;
+}
+
+span {
+  	font: 700 4em/1 "Oswald", sans-serif;
+  	letter-spacing: 0;
+  	padding: .25em 0 .325em !important;
+	display: block !important;
+	margin: 0 auto !important;
+}
+
+#header{
+  color:blue;
+}
+
+body{
+    background-image:url("../IMG/back.gif");
+    background-repeat: repeat;
+    color:white;
+}
+
+#Explain{
+    position: relative;
+    top: 10.5em;
+    left: 2em;
+}
+
+#win{
+	position: relative;
+	top: -3em;
+    right: -27em;
+}
+
+#explanation{
+    font-size: xx-large;
+    position: relative;
+    top: 11em;
+    left: 2em;
+}
+
+#winner{
+	font-size: xx-large;
+	position: relative;
+    top: -2.5em;
+    right: -28em;
+}
+
+video{
+    width:40%;
+    height:10%; 
+}
+
+img{
+	height: 300px;
+    position: relative;
+    bottom: 54em;
+    left: 90em;
+}
+
+#go{
+    position: relative;
+    bottom: 55em;
+    left: 90em;
+	font-size: large;
+}
