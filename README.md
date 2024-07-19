@@ -1,5 +1,5 @@
 # Project
-here are two project that I created in css and html in my learning projects
+here are projects that I created in several languages and workspaces
 
 have a grate time.
 
